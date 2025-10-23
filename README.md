@@ -2,7 +2,7 @@
 
 This repository contains the Python analysis scripts and data visualizations developed under Pareto Advisory LLC, which engages with small businesses to interpret local, regional, and macroeconomic trends. The goal is to identify how key economic indicators—such as cross-border activity, GDP composition, and currency strength—relate to local business conditions and operational outcomes.
 
-#Research Summary
+# Research Summary
 
 - **Purpose**: To provide data-driven insights to small business owners by connecting their operational patterns to the broader economic environment.
 - **Approach**: Each analysis uses publicly available macroeconomic and regional datasets (from FRED, BEA, and U.S. Customs and Border Protection) to explore trends in trade flows, GDP growth drivers, and monetary conditions. Custom visualization modules—developed in-house (pareto_linechart and pareto_clustered)—standardize presentation and support business briefings and advisory reports.
